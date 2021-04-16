@@ -1,6 +1,6 @@
 ---
 <p align="center">
-  <img src="https://media.giphy.com/media/TYXXxBIzegB6021e1r/giphy.gif" width="167px"/> <img src="https://media.giphy.com/media/TYXXxBIzegB6021e1r/giphy.gif" width="167px"/> <img src="https://media.giphy.com/media/TYXXxBIzegB6021e1r/giphy.gif" width="167px"/> <img src="https://media.giphy.com/media/TYXXxBIzegB6021e1r/giphy.gif" width="167px"/> <img src="https://media.giphy.com/media/TYXXxBIzegB6021e1r/giphy.gif" width="167px"/>
+  <img src="https://media.giphy.com/media/TYXXxBIzegB6021e1r/giphy.gif" width="210px"/> <img src="https://media.giphy.com/media/TYXXxBIzegB6021e1r/giphy.gif" width="210px"/> <img src="https://media.giphy.com/media/TYXXxBIzegB6021e1r/giphy.gif" width="210px"/> <img src="https://media.giphy.com/media/TYXXxBIzegB6021e1r/giphy.gif" width="210px"/>
 </p>
 
 ---
