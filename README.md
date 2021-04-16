@@ -1,6 +1,6 @@
 ---
 <p align="center">
-  <img src="https://media.giphy.com/media/TYXXxBIzegB6021e1r/giphy.gif" width="210px"/> <img src="https://media.giphy.com/media/TYXXxBIzegB6021e1r/giphy.gif" width="210px"/> <img src="https://media.giphy.com/media/TYXXxBIzegB6021e1r/giphy.gif" width="210px"/><img src="https://media.giphy.com/media/TYXXxBIzegB6021e1r/giphy.gif" width="210px"/>
+  <img src="https://media.giphy.com/media/TYXXxBIzegB6021e1r/giphy.gif" width="210px"/><img src="https://media.giphy.com/media/TYXXxBIzegB6021e1r/giphy.gif" width="210px"/><img src="https://media.giphy.com/media/TYXXxBIzegB6021e1r/giphy.gif" width="210px"/><img src="https://media.giphy.com/media/TYXXxBIzegB6021e1r/giphy.gif" width="210px"/>
 </p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -10,7 +10,7 @@
 </a>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/TYXXxBIzegB6021e1r/giphy.gif" width="210px"/> <img src="https://media.giphy.com/media/TYXXxBIzegB6021e1r/giphy.gif" width="210px"/> <img src="https://media.giphy.com/media/TYXXxBIzegB6021e1r/giphy.gif" width="210px"/><img src="https://media.giphy.com/media/TYXXxBIzegB6021e1r/giphy.gif" width="210px"/>
+  <img src="https://media.giphy.com/media/TYXXxBIzegB6021e1r/giphy.gif" width="210px"/><img src="https://media.giphy.com/media/TYXXxBIzegB6021e1r/giphy.gif" width="210px"/><img src="https://media.giphy.com/media/TYXXxBIzegB6021e1r/giphy.gif" width="210px"/><img src="https://media.giphy.com/media/TYXXxBIzegB6021e1r/giphy.gif" width="210px"/>
 </p>
 
 ---
